@@ -1,2 +1,8 @@
 .vs/
 Linking/lib/freeimage/Debug/FreeImageLibd.lib
+# Ignorar archivos de librerías
+*.lib
+*.dll
+*.so
+*.dylib
+*.a
