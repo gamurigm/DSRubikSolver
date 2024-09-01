@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\gamur\Downloads\Rubik\x64\Debug\JuegoRubik.exe</FullPath>
+      <FullPath>C:\Users\gamur\source\repos\DS_VisualRubikCubeSolver\Rubik\x64\Debug\JuegoRubik.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
