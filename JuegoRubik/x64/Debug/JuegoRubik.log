@@ -1,0 +1,22 @@
+﻿  RubikCube.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'RubikCube.cpp')
+      C:\Users\gamur\Downloads\Rubik\Linking\include\glad\glad.h(32,9):
+      see previous definition of 'APIENTRY'
+  
+C:\Users\gamur\Downloads\Rubik\JuegoRubik\RubikCube.cpp(3,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\gamur\Downloads\Rubik\JuegoRubik\RubikCube.cpp(16,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\gamur\Downloads\Rubik\JuegoRubik\RubikCube.cpp(16,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\gamur\Downloads\Rubik\JuegoRubik\RubikCube.cpp(16,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\gamur\Downloads\Rubik\JuegoRubik\RubikCube.cpp(319,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\Users\gamur\Downloads\Rubik\JuegoRubik\main.cpp(170,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gamur\Downloads\Rubik\JuegoRubik\main.cpp(275,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\gamur\Downloads\Rubik\JuegoRubik\main.cpp(276,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\gamur\Downloads\Rubik\JuegoRubik\main.cpp(281,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gamur\Downloads\Rubik\JuegoRubik\main.cpp(282,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gamur\Downloads\Rubik\JuegoRubik\main.cpp(284,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\gamur\Downloads\Rubik\JuegoRubik\main.cpp(285,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\gamur\Downloads\Rubik\JuegoRubik\main.cpp(293,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  JuegoRubik.vcxproj -> C:\Users\gamur\Downloads\Rubik\x64\Debug\JuegoRubik.exe
