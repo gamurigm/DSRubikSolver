@@ -1,2 +1,2 @@
 # DSRubikSolver
-Rubik Solver by the Layer by latey Method
+Rubik Solver by the Layer by layer Method
